@@ -1,12 +1,16 @@
-# Markdown / GitCode Information
+# Markdown / GitHub Pages Information
 
-20230426
+Started: 20230426
+Created by: mlogan
+Last edit: 20230427
 
 ## Sources:
 
+[Building GitHub Pages Site](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
 [Getting Started](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br>
 [Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)<br>
 [rpuim github](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)<br>
+[]()
 
 # Getting Started
 
