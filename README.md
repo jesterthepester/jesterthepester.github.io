@@ -50,5 +50,7 @@ ruby -v
 4. Go to the website: <br>
 `http://localhost:4000/` <br>
 
-## 
+## SQL Page/s
+
+Added the first SQL page
 
