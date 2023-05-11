@@ -53,4 +53,8 @@ ruby -v
 ## SQL Page/s
 
 Added the first SQL page
+- need to add the basics of the schema
+- need to add the repo
+
+## 
 
