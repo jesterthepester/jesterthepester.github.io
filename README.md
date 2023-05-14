@@ -19,18 +19,19 @@
     13. Udemy_WebDev
     14. SQL
 - 
-- 
 
 ## Jekyll
 
 - Install Jekyl to manage site
 - Ruby is a pre-requisite
   - Ruby installed but needs to be source managed:
+
 ```bash
 source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh
 chruby 3.1.4
 ruby -v
 ```
+
 - Jekyll install under `Ruby 3.1.4`
 - [Jekyl How To](https://jekyllrb.com/docs/)
   - Follow steps `3 - 5`
