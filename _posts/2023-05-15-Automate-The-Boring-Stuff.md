@@ -5,11 +5,31 @@
 [Automate The Boring Stuff Book](https://automatetheboringstuff.com/#toc)
 
 ## Table of Contents
-
-
-
-## Scripts:
 <br>
+
+[1. First For Loop](#1-first-for-loop)<br>
+[2. Function](#2-function)<br>
+[3. First Game](#3-first-game)<br>
+[4. File Management](#4-file-management)<br>
+    [4. 1. Open and Read](#41-open-and-read)<br>
+    [4. 2. Delete a File](#42-delete-a-file)<br>
+[5. Practical Use 1 - Folder and File List](#5-practical-use-1---folder-and-file-list)<br>
+[6. Print a Box](#6-print-a-box)<br>
+[7. Logging](#7-logging)<br>
+[8. Get a price from a URL](#8-get-a-price-from-a-url)<br>
+[9. Excel Manipulation](#9-excel-manipulation)<br>
+    [9. 1. Worksheet Names and Locations](#91-worksheet-names-and-locations)<br>
+    [9. 2. Creating and Manpulating Worksheets](#92-creating-and-manpulating-worksheets)<br>
+[10. SMTP - Simple Mail Transfer Protocol](#10-smtp---simple-mail-transfer-protocol)<br>
+    [10. 1. Sending Email](#101-sending-email)<br>
+    [10. 2. Checing Inbox (IMAP)](#102-checing-inbox-imap)<br>
+[11. Mouse Control](#11-mouse-control)<br>
+[12. Keyboard Control](#12-keyboard-control)<br>
+[13. Screen Capture](#13-screen-capture)<br>
+
+<br>
+
+## Scripts
 
 ### 1. First For Loop
 <br>
@@ -143,17 +163,13 @@ logging.debug('End of program.')
 ```Python
 import requests
 import bs4
-
 # html.parser ignores warning
-
 def getAmazonPrice(productUrl):
     res = requests.get(productUrl)
     res.raise_for_status()
-
     soup = bs4.BeautifulSoup(res.text, 'html.parser')
     elems = soup.select('price')
     return elems[0].text.strip()
-
 price = getAmazonPrice('https://www.amazon.com.au/Automate-Boring-Stuff-Python-Programming/dp/1593279922/ref=sr_1_1?crid=KY2HRARA3J32&dchild=1&keywords=automate+the+boring+stuff+with+python&qid=1624183053&sprefix=automate+the+%2Caps%2C339&sr=8-1')
 print('The price is ' + price)
 ```
