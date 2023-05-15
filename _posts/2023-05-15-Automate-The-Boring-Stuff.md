@@ -26,8 +26,6 @@
 [12. Keyboard Control](#12-keyboard-control)<br>
 [13. Screen Capture](#13-screen-capture)<br>
 
-<br>
-
 ## Scripts
 
 ### 1. First For Loop
