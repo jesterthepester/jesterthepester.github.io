@@ -5,7 +5,6 @@
 [Automate The Boring Stuff Book](https://automatetheboringstuff.com/#toc)
 
 ## Table of Contents
-<br>
 
 [1. First For Loop](#1-first-for-loop)<br>
 [2. Function](#2-function)<br>
