@@ -1,4 +1,4 @@
-# MichaelLogan.github.io
+# Michael Logan
 
 ## To Do
 
