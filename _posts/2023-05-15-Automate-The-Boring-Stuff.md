@@ -29,7 +29,6 @@
 ## Scripts
 
 ### 1. First For Loop
-<br>
 
 ```Python
 print('My name is')
@@ -38,7 +37,6 @@ for i in range(5,-1,-1):
 ```
 
 ### 2. Function
-<br>
 
 ``` Python
 def spam():
@@ -51,7 +49,6 @@ spam()
 ```
 
 ### 3. First Game
-<br>
 
 ``` Python
 import random
@@ -75,7 +72,6 @@ else:
 ```
 
 ### 4. File Management
-<br>
 
 #### 4.1. Open and Read
 
@@ -95,7 +91,6 @@ for filename in os.listdir():
 ```
 
 ### 5. Practical Use 1 - Folder and File List
-<br>
 
 ```Python
 import os
@@ -112,7 +107,6 @@ for folderName, subfolders, filenames in os.walk('c:\\_delicious'):
 ```
 
 ### 6. Print a Box
-<br>
 
 ```Python
 def boxPrint(symbol, width, height):
@@ -128,7 +122,6 @@ boxPrint('*',8,8)
 ```
 
 ### 7. Logging
-<br>
 
 ```Python
 import logging
@@ -155,7 +148,6 @@ logging.debug('End of program.')
 ```
 
 ### 8. Get a price from a URL
-<br>
 
 ```Python
 import requests
@@ -172,7 +164,6 @@ print('The price is ' + price)
 ```
 
 ### 9. Excel Manipulation
-<br>
 
 #### 9.1. Worksheet Names and Locations
 
@@ -210,7 +201,6 @@ wb.save('example3.xlsx')
 ```
 
 ### 10. SMTP - Simple Mail Transfer Protocol
-<br>
 
 #### 10.1. Sending Email
 
@@ -225,7 +215,6 @@ conn.sendmail('michaellogan40@gmail.com','rmloganj@gmail.com','Subject: So long.
 ```
 
 #### 10.2. Checing Inbox (IMAP)
-<br>
 
 ```Python
 # IMAP is for checking email
