@@ -1,23 +1,23 @@
-# jesterthepester.github.io
+# MichaelLogan.github.io
 
 ## To Do
 
 - Add templates from Udemy courses
-- List the repos:
-    1. Automate the boring stuff
-    2. 71 Python Projects
-    3. Free Code Camp
-    4. DL Using Keras
-    5. Derek Banas
-    6. LLMs
-    7. ML A-Z
-    8. O'Reilly Hands on ML
-    9. Problem Sets _ Unknown
-    10. Python Bootcamps
-    11. Python Projects
-    12. Udemy_SDS
-    13. Udemy_WebDev
-    14. SQL
+- List the repos: <br>
+~~1. Automate the boring stuff~~ <br>
+  2. 71 Python Projects <br>
+  3. Free Code Camp <br>
+  4. DL Using Keras <br>
+  5. Derek Banas <br>
+  6. LLMs <br>
+  7. ML A-Z <br>
+  8. O'Reilly Hands on ML <br>
+  9. Problem Sets _ Unknown <br>
+  10. Python Bootcamps <br>
+  11. Python Projects <br>
+  12. Udemy_SDS <br>
+  13. Udemy_WebDev <br>
+  14. SQL (started) <br>
 - 
 
 ## Jekyll
