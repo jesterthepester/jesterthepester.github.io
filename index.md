@@ -21,3 +21,5 @@ Additional skills:
 
 ## Experience
 
+CitiPower Powercor • OT/SCADA Technical Specialist
+
