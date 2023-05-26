@@ -5,19 +5,20 @@
 - Add templates from Udemy courses
 - List the repos: <br>
 ~~1. Automate the boring stuff~~ <br>
-  2. 71 Python Projects <br>
-  3. Free Code Camp <br>
-  4. DL Using Keras <br>
-  5. Derek Banas <br>
-  6. LLMs <br>
-  7. ML A-Z <br>
-  8. O'Reilly Hands on ML <br>
-  9. Problem Sets _ Unknown <br>
-  10. Python Bootcamps <br>
-  11. Python Projects <br>
-  12. Udemy_SDS <br>
-  13. Udemy_WebDev <br>
-  14. SQL (started) <br>
+  2. Django <br>
+  3. 71 Python Projects <br>
+  4. Free Code Camp <br>
+  5. DL Using Keras <br>
+  6. Derek Banas <br>
+  7. LLMs <br>
+  8. ML A-Z <br>
+  9. O'Reilly Hands on ML <br>
+  10. Problem Sets _ Unknown <br>
+  11. Python Bootcamps <br>
+  12. Python Projects <br>
+  13. Udemy_SDS <br>
+  14. Udemy_WebDev <br>
+  15. SQL (started) <br>
 - 
 
 ## Jekyll
